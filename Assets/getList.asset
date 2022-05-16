@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80673350c751aa94f848d306c0da342e, type: 3}
+  m_Name: getList
+  m_EditorClassIdentifier: 
+  empList:
+  - name: rurur
+    email: hjh@gmail.com
+    gender: 0
+    address: hvhsodjoivhsod
+    designation: 0
+    contact: 23232312232
+    id: 2223
+  - name: rurur
+    email: hjh@gmail.com
+    gender: 0
+    address: hvhsodjoivhsod
+    designation: 1
+    contact: 23232312232
+    id: 2223
+  - name: rurur
+    email: hjh@gmail.com
+    gender: 0
+    address: hvhsodjoivhsod
+    designation: 2
+    contact: 23232312232
+    id: 2223
+  - name: rurur
+    email: hjh@gmail.com
+    gender: 0
+    address: hvhsodjoivhsod
+    designation: 2
+    contact: 23232312232
+    id: 2223
+  - name: Jdijij
+    email: fhhsigmail@bnb.com
+    gender: 0
+    address: Ijii
+    designation: 0
+    contact: 231731
+    id: 11
+  - name: Ewewew
+    email: ewew@gmail.com
+    gender: 0
+    address: Gfdsf
+    designation: 0
+    contact: 1234512345
+    id: 1212
+  - name: Ewewew
+    email: ewew@gmail.com
+    gender: 0
+    address: Gfdsf
+    designation: 0
+    contact: 1234512345
+    id: 1212
+  - name: Rushi
+    email: ewew@gmail.com
+    gender: 0
+    address: Gfdsf
+    designation: 2
+    contact: 1234512345
+    id: 1212
+  - name: Rushi
+    email: ewew@gmail.com
+    gender: 0
+    address: Gfdsf
+    designation: 2
+    contact: 1234512345
+    id: 1212
